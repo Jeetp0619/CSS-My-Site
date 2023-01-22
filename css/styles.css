@@ -1,0 +1,33 @@
+body{
+    margin:0;
+}
+
+h1{
+    margin:0;
+}
+
+.top-container{
+    background-color: #393E46;
+    
+    
+}
+
+.middle-container{
+    background-color: #00ADB5;
+    height: 200px;
+    width:200px;
+   
+}
+.bottom-container{
+    background-color: #EEEEEE;
+    height: 200px;
+    width: 200px;
+   
+}
+.pro{
+    text-decoration: underline;
+}
+
+/* .cloud{
+    
+} */
